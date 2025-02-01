@@ -1,2 +1,4 @@
 user is live   
 yestwerdaygit
+
+create avtar for user 1
